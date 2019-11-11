@@ -1,0 +1,59 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.wrap{
+    width: 100%;
+    height: 100px;
+    background-color: lightblue;
+    overflow: hidden;
+   
+}
+.one{
+    background-color: lavenderblush
+}
+.two{
+    background-color: lightgreen
+}
+.wrap div{
+    float: left;
+}
+.doctorpic{
+    width: 20%;
+    height: 100%;
+}
+.doctorpic img{
+    width: 80%;
+    height: 60%;
+    margin-left: 10%;
+    margin-top: 25%;
+    
+}
+.dcotorinof{
+    width:60%;
+    height: 100%;
+}
+.dcotorinof p:nth-of-type(1){
+    font-size: 17px;
+    font-weight: 600;
+}
+.dcotorinof p:nth-of-type(2){
+    font-size: 16px;
+    
+}
+.dcotorinof p:nth-of-type(3){
+    font-size: 16px;
+    
+}
+.doctorphone{
+    width: 20%;
+    height: 100%;
+}
+.doctorphone p{
+    font-size: 17px;
+    line-height: 35px;
+}

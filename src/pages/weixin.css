@@ -1,0 +1,144 @@
+.shang{
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    height: 36px;
+    background-color: black;
+    color: white;
+}
+.shang p{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.shang .diandian{
+    font-size: 24px;
+    line-height: 14px;
+}
+
+.neirong{
+    height: 100px;
+    margin-top: 10px;
+}
+.neirong .n_center{
+    background-color: #cccccc;
+    width: 100px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.neirong .lt{
+    height: 80px;
+    width: 100%;
+}
+.neirong .lt img{
+    width: 50px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: left;
+}
+.neirong .lt .shanjiao{
+    float: left;
+    border: 10px solid;
+    margin-top: 20px;
+    width: 0;
+    height: 0;
+    border-color:   transparent aliceblue transparent transparent ;
+    
+
+}
+.neirong .lt .kuang{
+    float: left;
+    width: 100px;
+    height: 60px;
+    background-color: aliceblue;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.neirong .lt .kuang p{
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+.neirong2{
+    height: 100px;
+    margin-top: 10px;
+}
+.neirong2 .n_center{
+    background-color: #cccccc;
+    width: 100px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 0 auto;
+}
+.neirong2 .lt{
+    height: 80px;
+    width: 100%;
+}
+.neirong2 .lt img{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+    margin-right: 10px;
+    float: right;
+}
+.neirong2 .lt .shanjiao{
+    float: right;
+    border: 10px solid;
+    margin-top: 20px;
+    width: 0;
+    height: 0;
+    border-color:   transparent transparent transparent aliceblue ;
+}
+.neirong2 .lt .kuang{
+    float: right;;
+    width: 100px;
+    height: 60px;
+    background-color: aliceblue;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.neirong2 .lt .kuang p{
+    font-size: 14px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.xia{
+    height: 100px;
+    width: 100%;
+    background-color: lavender;
+    position: fixed;
+    bottom: 0;
+}
+.xia .shuru{
+    margin-top: 7px;
+    margin-left: 10px;
+    height: 40px;
+    width: 280px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    float: left;
+}
+.xia .btn{
+    float: left;
+    width: 70px;
+    height: 40px;
+    background-color: aliceblue;
+    margin-left: 8px;
+    margin-top: 7px;
+    border-radius: 10px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 800;
+
+}
+

@@ -1,0 +1,40 @@
+.qqqaq{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: white;
+    z-index: 10;
+}
+.kg{
+    height: 50px;
+    background-color: white;
+    border-top: 1px solid slategrey;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    line-height: 50px;
+    font-size: 16px;
+}
+.xhx{
+    border-bottom: 2px solid blue;;
+}
+
+.qqff{
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: white;
+    z-index: 10;
+}
+.fk{
+    width: 70px;
+    height: 70px;
+    float: left;
+    background-color: black
+}
+
+ .tabs{
+     margin-top: 50px;
+     overflow: hidden
+ }

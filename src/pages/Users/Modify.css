@@ -1,0 +1,16 @@
+.ccc{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+}
+.p{
+    text-align: right;
+    margin-top: 10px;
+}
+.cj{
+    position: absolute;
+    right: 5px;
+    top: 4px;
+    z-index: 2;
+}

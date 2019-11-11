@@ -1,0 +1,25 @@
+.xuetang{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 8px;
+    border: 1px solid green;
+}
+.page-link{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.kk{
+    font-size: 15px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center
+}
+.picc{
+    height: 30px;
+    width: 30px;
+    margin-top: 7px;
+}

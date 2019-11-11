@@ -1,0 +1,13 @@
+.zhangone{
+    height: 260px;
+    width: 100%;
+    float: left;
+    background:#ffc; 
+    overflow-y:auto;
+    min-height: 60px;
+    line-height: 60px;
+    background-color: rgb(245, 246, 247);
+}
+.zhangone .xian{
+  position: relative;
+}

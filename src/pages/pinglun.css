@@ -1,0 +1,34 @@
+.pshang{
+    width: 100%;
+    height: 30px;
+    border-bottom: 1px solid #cccccc;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.pshang p{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.nr{
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    text-indent: 10px;
+    font-size: 14px;
+}
+
+.jp{
+    width: 100%;
+}
+.jp img{
+    width: 100%;
+    position: fixed;
+    bottom: 46px;
+}
+
+
+
+

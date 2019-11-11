@@ -1,0 +1,54 @@
+.doctors{
+    width: 70%;
+    margin: 0 auto;
+    text-align: left;
+    margin-top: 6%;
+}
+.ipt{
+    border-radius: 20px;
+    height: 35px;
+    width: 200px;
+    margin-left:9px;
+    border: 1px solid black;
+    margin-top: 15%;
+    outline: none;
+    margin-right: 0
+}
+.files{
+    width: 25px;
+    height: 25px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 25px;
+    border-radius: 5px;
+    position: relative;
+}
+.fil{
+    opacity: 0;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.sub{
+    width: 200px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 35px;
+    background-color: white;
+    margin-top: 20px;
+    outline: none;
+    margin-left: 50px
+}
+.head_logos{
+    height: 25px;
+    margin-top: 20px;
+}
+.head_logos div{
+    float: left;
+}

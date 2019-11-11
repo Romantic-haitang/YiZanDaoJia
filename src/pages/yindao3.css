@@ -1,0 +1,18 @@
+.yd3{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.yd3 img{
+    width: 100%;
+    height: 100%;
+}
+.yd3 p{
+    position: absolute;
+    width: 50%;
+    height: 35px;
+    background-color: transparent;
+    border-radius: 40px;
+    bottom: 69px;
+    left: 25%;
+}

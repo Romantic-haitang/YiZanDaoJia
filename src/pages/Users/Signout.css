@@ -1,0 +1,12 @@
+.tc{
+    height: 40px;
+    width: 98%;
+    margin: 0 auto;
+    margin-top: 40px;
+    /* background-color: red; */
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 14px;
+    line-height: 40px;
+    text-align: center
+}

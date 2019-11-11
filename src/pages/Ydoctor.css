@@ -1,0 +1,83 @@
+.doctorsss{
+    width: 90%;
+    height: 70%;
+    text-align: left;
+    margin-left: 25px;
+}
+.doctorsss span{
+    color: #969696;
+    margin-left: 15px;
+}
+.chacha{
+    height:100px;
+    width:80%;
+    margin: 0 auto;
+    border-bottom:1px solid black; 
+}
+.chacha img{
+    margin-top: 20px;
+    height: 15px;
+    width: 15px;
+}
+.chacha p{
+    margin-top: 35px;
+    text-align: center;
+    color: #13c013;
+}
+
+.ipt{
+    border-radius: 20px;
+    height: 40px;
+    width: 120px;
+    margin-left: 9px;
+    text-align: center;
+    border: 1px solid darkgrey;
+    margin-top: 20px;
+    outline: none;
+    margin-right: 0;
+}
+.files{
+    width: 25px;
+    height: 25px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 25px;
+    border-radius: 5px;
+    position: relative;
+}
+.fil{
+    opacity: 0;
+    width: 25px;
+    height: 25px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.sub{
+    width: 200px;
+    height: 35px;
+    border: 1px solid black;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 35px;
+    background-color: white;
+    margin-top: 20px;
+    outline: none;
+    margin-left: 50px
+}
+.head_logoss{
+    height: 25px;
+    margin-top: 20px;
+}
+.head_logoss div{
+    height: 40px;
+    width: 120px;
+    line-height: 40px;
+    text-align: center;
+    border-radius: 25px;
+    border: 1.5px solid #808080;
+    margin: 0 auto;
+    margin-top: 20px;
+}

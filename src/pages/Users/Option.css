@@ -1,0 +1,35 @@
+.dx{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 4px;
+
+}
+.da{
+    
+    border-bottom: 1px solid slategray;
+    
+}
+.dx img{
+    width: 40px;
+    height: 40px;
+    /* float: left; */
+}
+
+.aa{
+    /* background-color: yellow; */
+    /* width: 80%; */
+    height: 40px;
+    margin-top: 5px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 40px
+
+}
+.aa p:nth-of-type(1){
+    margin-left: 20px;
+    font-size: 20px;
+}
+.aa p:nth-of-type(2){
+    text-align: right;
+}

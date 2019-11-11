@@ -1,0 +1,49 @@
+.boxone{
+    height: 100%;
+    width: 100%;
+}
+
+
+.Container{
+    height: 48px;
+    width: 100%;
+    border-bottom: 1px solid rgb(167, 167, 167);
+    background-color: white;
+}
+.๑Ő௰Ő๑{
+    display: flex;
+    justify-content: space-around;
+}
+.๑Ő௰Ő๑ li{
+    text-align: center;
+    height: 48px;
+    width: 100%;
+    line-height: 48px;
+}
+.๑Ő௰Ő๑ .ccxy{
+    font-family: 微软雅黑;
+    color: rgb(107, 107, 107);
+    line-height: 48px;
+    font-size: 20px;
+    text-align: center;
+}
+/* .๑Ő௰Ő๑ .qiehuan{
+
+} */
+.๑Ő௰Ő๑ .pic{
+    height: 15px;
+    width: 15px;
+    margin-left: 20px;
+    margin-top: 18px;
+    margin-right: 69px;
+}
+
+.boxes{
+    height: 100%;
+    width: 100%;
+    background-color:rgb(237, 237, 238);
+    /* float: left; */
+    overflow-y:auto;
+    min-height: 60px;
+    position: fixed;
+}

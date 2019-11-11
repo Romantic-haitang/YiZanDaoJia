@@ -1,0 +1,8 @@
+.am-card-header-content {
+    color: rgb(0, 204, 153);
+    flex: 3 1;
+}
+.message{
+    color: gray;
+    text-indent: 35px
+}

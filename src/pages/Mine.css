@@ -1,0 +1,120 @@
+.mine{
+    height: 50px;
+    width: 100%;
+    margin-top: 5px;
+    overflow: hidden;
+}
+.logo{
+    height: 40px;
+    width: 40px;
+    float: left;
+    margin-top: 6px;
+    margin-left: 30px;
+}
+.photo{
+    height: 100%;
+    width: 100%;
+}
+.name{
+    margin-left: 80px;
+    font-size: 22px;
+}
+.id{
+    float: left;
+    font-size: 14px;
+    margin-left: 10px;
+}
+.anniu{
+    height: 50px;
+    width: 100%;
+    margin-top: 20px;
+    overflow: hidden;
+
+}
+.xueyayi{
+    height: 35px;
+    width: 45%;
+    font-size: 15px;
+    text-align: center;
+    font-family: 微软雅黑;
+    line-height: 35px;
+    margin-top: 4px;
+    float: left;
+    margin-left: 10px;
+    border-radius: 5px;
+    border: 1px solid #1dc61d;
+    background-color: white;
+}
+.jilu{
+    height: 35px;
+    width: 45%;
+    font-size: 18px;
+    text-align: center;
+    font-family: 微软雅黑;
+    line-height: 35px;
+    margin-top: 4px;
+    float: right;
+    color: black;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid #1dc61d;
+    background-color: white;
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 50%;
+    border:2px solid #6b6b6b;
+}
+.circle p{
+    margin-top: 30px;
+    margin-left: 26px;
+    font-size: 15px;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    font-family: 微软雅黑;
+    color: rgb(107, 107, 107);
+}
+.xinlu{
+    margin-top: 10px;
+    margin-left: 12px;
+    font-size: 55px;
+    width: 100%;
+}
+.xinlu .mmhg{
+    margin-left: -30px;
+    text-align: center;
+    margin-top: 10px;
+}
+.frequency{
+    height: 30px;
+    margin-left: 50px;
+    margin-top: 13px;
+    font-size: 14px;
+    line-height: 30px;
+    font-weight: 600;
+    width: 50%;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #757575;
+}
+.qwq{
+    position: absolute;
+    z-index: 10;
+}
+
+
+/* 图表 */
+
+
+.charts{
+    height: 122px;
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 12px;
+    background-color: #1dc61d;
+}

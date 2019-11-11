@@ -1,0 +1,19 @@
+.ys{
+    height: 40px;
+    width: 100%;
+    background-color: white;
+    position: fixed;
+    top: 0;
+}
+.ysa{
+    float: left;
+    margin-left: 5px;
+    line-height: 40px;
+}
+.yss{
+   text-align: center;
+   width: 100%;
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 40px;
+}

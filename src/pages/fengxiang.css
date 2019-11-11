@@ -1,0 +1,24 @@
+.tou{
+    height: 50px;
+    width: 100%;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.xias{
+    height: 180px;
+    text-align: center;
+    font-size: 24px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+
+}
+.xias .qq{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
